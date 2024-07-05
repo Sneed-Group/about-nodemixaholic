@@ -1,4 +1,4 @@
-# nodemixaholic
+# nodemixaholic (old/deprecated readme)
 
 Welcome to my Gitea!
 
